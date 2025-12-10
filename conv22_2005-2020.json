@@ -1,0 +1,802 @@
+{
+  "conversation_id": "conv22_2005-2020",
+  "store_id": "conv22_2005-2020",
+  "staff_ids": [
+    "Customer_B",
+    "sunita"
+  ],
+  "audio_path": "data/audio/conv22_2005-2020.wav",
+  "segments": [
+    {
+      "id": 1,
+      "start": 227.332,
+      "end": 229.072,
+      "speaker": "sunita",
+      "text": "हाय मैम वेलकम टू ज्वेल बॉक्स."
+    },
+    {
+      "id": 2,
+      "start": 229.802,
+      "end": 230.53199999999998,
+      "speaker": "sunita",
+      "text": "हेलो सर"
+    },
+    {
+      "id": 3,
+      "start": 234.672,
+      "end": 238.332,
+      "speaker": "sunita",
+      "text": "मैम ये है कुछ उस साइड होंगे मैम बाकी मैं उस साइड होंगे मैं आपको दिखाती हूं."
+    },
+    {
+      "id": 4,
+      "start": 250.592,
+      "end": 251.872,
+      "speaker": "sunita",
+      "text": "मैम ये है."
+    },
+    {
+      "id": 5,
+      "start": 267.762,
+      "end": 270.402,
+      "speaker": "sunita",
+      "text": "इयररिंग्स और मैम आपको बाजू में और दिखाऊंगी सर कुछ है ना?"
+    },
+    {
+      "id": 6,
+      "start": 271.952,
+      "end": 272.422,
+      "speaker": "sunita",
+      "text": "यस मैम."
+    },
+    {
+      "id": 7,
+      "start": 275.392,
+      "end": 280.942,
+      "speaker": "sunita",
+      "text": "और मैम क्लॉक किस टाइप के आप देख रहे हैं इयररिंग्स आप बता दें किस टाइप में आप देख रहे हैं? स्टड्स में या नहीं?"
+    },
+    {
+      "id": 8,
+      "start": 281.342,
+      "end": 282.502,
+      "speaker": "Customer_B",
+      "text": "स्टड्स में."
+    },
+    {
+      "id": 9,
+      "start": 282.842,
+      "end": 283.912,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम."
+    },
+    {
+      "id": 10,
+      "start": 285.022,
+      "end": 286.402,
+      "speaker": "sunita",
+      "text": "सॉलिटेयर स्टड्स चाहिए या कि डिजाइन?"
+    },
+    {
+      "id": 11,
+      "start": 287.342,
+      "end": 288.332,
+      "speaker": "sunita",
+      "text": "ओके मैम."
+    },
+    {
+      "id": 12,
+      "start": 292.48199999999997,
+      "end": 293.302,
+      "speaker": "sunita",
+      "text": "यहाँ पर रखो."
+    },
+    {
+      "id": 13,
+      "start": 293.79200000000003,
+      "end": 294.912,
+      "speaker": "sunita",
+      "text": "अह मैम दिस इज."
+    },
+    {
+      "id": 14,
+      "start": 295.972,
+      "end": 296.54200000000003,
+      "speaker": "sunita",
+      "text": "चलिए."
+    },
+    {
+      "id": 15,
+      "start": 296.632,
+      "end": 298.742,
+      "speaker": "sunita",
+      "text": "अच्छा अच्छा ये दोनों एक ही जैसे हैं."
+    },
+    {
+      "id": 16,
+      "start": 301.372,
+      "end": 301.762,
+      "speaker": "sunita",
+      "text": "हाँ."
+    },
+    {
+      "id": 17,
+      "start": 303.242,
+      "end": 304.282,
+      "speaker": "sunita",
+      "text": "अच्छा अच्छा."
+    },
+    {
+      "id": 18,
+      "start": 304.812,
+      "end": 307.492,
+      "speaker": "Customer_B",
+      "text": "ये दोनों एक ही जैसा है दोनों एक ही जैसा है."
+    },
+    {
+      "id": 19,
+      "start": 311.752,
+      "end": 313.062,
+      "speaker": "sunita",
+      "text": "ये मैम एक है."
+    },
+    {
+      "id": 20,
+      "start": 313.882,
+      "end": 315.342,
+      "speaker": "sunita",
+      "text": "ये मैम एक है."
+    },
+    {
+      "id": 21,
+      "start": 316.422,
+      "end": 317.392,
+      "speaker": "sunita",
+      "text": "ये दोनों एक है."
+    },
+    {
+      "id": 22,
+      "start": 317.472,
+      "end": 318.572,
+      "speaker": "sunita",
+      "text": "नो मैम एक है."
+    },
+    {
+      "id": 23,
+      "start": 319.422,
+      "end": 320.142,
+      "speaker": "sunita",
+      "text": "एक है."
+    },
+    {
+      "id": 24,
+      "start": 320.672,
+      "end": 321.142,
+      "speaker": "sunita",
+      "text": "एक है."
+    },
+    {
+      "id": 25,
+      "start": 321.262,
+      "end": 323.002,
+      "speaker": "sunita",
+      "text": "ये है ये है."
+    },
+    {
+      "id": 26,
+      "start": 327.562,
+      "end": 328.182,
+      "speaker": "sunita",
+      "text": "दोनों."
+    },
+    {
+      "id": 27,
+      "start": 328.29200000000003,
+      "end": 329.212,
+      "speaker": "sunita",
+      "text": "दोनों है."
+    },
+    {
+      "id": 28,
+      "start": 331.962,
+      "end": 332.842,
+      "speaker": "sunita",
+      "text": "मैम ये है."
+    },
+    {
+      "id": 29,
+      "start": 333.422,
+      "end": 334.022,
+      "speaker": "sunita",
+      "text": "ये है."
+    },
+    {
+      "id": 30,
+      "start": 334.222,
+      "end": 334.862,
+      "speaker": "sunita",
+      "text": "ये है."
+    },
+    {
+      "id": 31,
+      "start": 353.302,
+      "end": 353.942,
+      "speaker": "sunita",
+      "text": "ये दो है."
+    },
+    {
+      "id": 32,
+      "start": 357.432,
+      "end": 358.29200000000003,
+      "speaker": "Customer_B",
+      "text": "बाली का ही है?"
+    },
+    {
+      "id": 33,
+      "start": 358.462,
+      "end": 359.29200000000003,
+      "speaker": "sunita",
+      "text": "यस मैम."
+    },
+    {
+      "id": 34,
+      "start": 359.29200000000003,
+      "end": 360.082,
+      "speaker": "sunita",
+      "text": "हाँ ये दोनों."
+    },
+    {
+      "id": 35,
+      "start": 360.272,
+      "end": 361.622,
+      "speaker": "Customer_B",
+      "text": "बाली में? ओके."
+    },
+    {
+      "id": 36,
+      "start": 361.622,
+      "end": 362.822,
+      "speaker": "sunita",
+      "text": "वो लॉक वाली है."
+    },
+    {
+      "id": 37,
+      "start": 363.962,
+      "end": 366.012,
+      "speaker": "sunita",
+      "text": "और जैसे बाली में पैटर्न क्लिक हो जाता है."
+    },
+    {
+      "id": 38,
+      "start": 366.122,
+      "end": 366.842,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम."
+    },
+    {
+      "id": 39,
+      "start": 367.722,
+      "end": 368.202,
+      "speaker": "sunita",
+      "text": "इसमे."
+    },
+    {
+      "id": 40,
+      "start": 368.572,
+      "end": 369.112,
+      "speaker": "sunita",
+      "text": "अच्छा जी."
+    },
+    {
+      "id": 41,
+      "start": 369.112,
+      "end": 370.592,
+      "speaker": "sunita",
+      "text": "अच्छा अच्छा मैम."
+    },
+    {
+      "id": 42,
+      "start": 371.832,
+      "end": 372.432,
+      "speaker": "sunita",
+      "text": "हाँ जी."
+    },
+    {
+      "id": 43,
+      "start": 395.322,
+      "end": 396.782,
+      "speaker": "sunita",
+      "text": "मैम ये दोनों एक हैं."
+    },
+    {
+      "id": 44,
+      "start": 397.362,
+      "end": 398.222,
+      "speaker": "sunita",
+      "text": "ये दोनों एक हैं."
+    },
+    {
+      "id": 45,
+      "start": 399.122,
+      "end": 400.942,
+      "speaker": "sunita",
+      "text": "तो ये भी दोनों एक ही जैसे हैं."
+    },
+    {
+      "id": 46,
+      "start": 401.072,
+      "end": 401.522,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम."
+    },
+    {
+      "id": 47,
+      "start": 401.972,
+      "end": 402.592,
+      "speaker": "sunita",
+      "text": "ये है."
+    },
+    {
+      "id": 48,
+      "start": 428.572,
+      "end": 430.962,
+      "speaker": "sunita",
+      "text": "ये दोनों टाइप्स हैं."
+    },
+    {
+      "id": 49,
+      "start": 431.23199999999997,
+      "end": 433.432,
+      "speaker": "sunita",
+      "text": "ये दोनों टाइप्स के अलग-अलग डिजाइन है दोनों के."
+    },
+    {
+      "id": 50,
+      "start": 436.48199999999997,
+      "end": 436.892,
+      "speaker": "Customer_B",
+      "text": "ये कौन सा है?"
+    },
+    {
+      "id": 51,
+      "start": 441.032,
+      "end": 441.932,
+      "speaker": "Customer_B",
+      "text": "सॉरी व्हाट इज दिस?"
+    },
+    {
+      "id": 52,
+      "start": 443.702,
+      "end": 444.632,
+      "speaker": "Customer_B",
+      "text": "इसका इंग्लिश रेट है."
+    },
+    {
+      "id": 53,
+      "start": 446.04200000000003,
+      "end": 447.762,
+      "speaker": "Customer_B",
+      "text": "So we bought what"
+    },
+    {
+      "id": 54,
+      "start": 448.602,
+      "end": 450.002,
+      "speaker": "Customer_B",
+      "text": "gold with a gold."
+    },
+    {
+      "id": 55,
+      "start": 450.402,
+      "end": 451.79200000000003,
+      "speaker": "sunita",
+      "text": "गोल्ड मैम 18 कैरट."
+    },
+    {
+      "id": 56,
+      "start": 452.322,
+      "end": 456.422,
+      "speaker": "sunita",
+      "text": "18 कैरट गोल्ड है सर, इसमें टोटल डायमंड है 1 कैरट 75 सेंट का."
+    },
+    {
+      "id": 57,
+      "start": 457.522,
+      "end": 459.952,
+      "speaker": "sunita",
+      "text": "मैम इसका प्राइस भी डिस्क्रिप्शन बता देती हूं."
+    },
+    {
+      "id": 58,
+      "start": 460.852,
+      "end": 461.692,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम."
+    },
+    {
+      "id": 59,
+      "start": 463.712,
+      "end": 465.98199999999997,
+      "speaker": "sunita",
+      "text": "इस तरह भी पहन सकते हैं इस तरह भी पहन सकते हैं."
+    },
+    {
+      "id": 60,
+      "start": 467.662,
+      "end": 468.882,
+      "speaker": "sunita",
+      "text": "10047."
+    },
+    {
+      "id": 61,
+      "start": 471.362,
+      "end": 473.302,
+      "speaker": "sunita",
+      "text": "ये मैम प्रॉपर इसका डिस्क्रिप्शन है."
+    },
+    {
+      "id": 62,
+      "start": 481.352,
+      "end": 482.392,
+      "speaker": "sunita",
+      "text": "दूसरा कर लेना."
+    },
+    {
+      "id": 63,
+      "start": 484.142,
+      "end": 484.472,
+      "speaker": "sunita",
+      "text": "ये."
+    },
+    {
+      "id": 64,
+      "start": 484.972,
+      "end": 486.182,
+      "speaker": "sunita",
+      "text": "ये होता है."
+    },
+    {
+      "id": 65,
+      "start": 487.482,
+      "end": 490.742,
+      "speaker": "sunita",
+      "text": "वैसे ले लो उधर एक रखा हुआ है ना वो वाला ले लो ये नहीं चल रहा है, दोनों नहीं चल रहा है."
+    },
+    {
+      "id": 66,
+      "start": 492.442,
+      "end": 492.782,
+      "speaker": "sunita",
+      "text": "एक."
+    },
+    {
+      "id": 67,
+      "start": 494.932,
+      "end": 495.532,
+      "speaker": "sunita",
+      "text": "हां."
+    },
+    {
+      "id": 68,
+      "start": 497.392,
+      "end": 498.062,
+      "speaker": "sunita",
+      "text": "एक है."
+    },
+    {
+      "id": 69,
+      "start": 498.23199999999997,
+      "end": 499.462,
+      "speaker": "sunita",
+      "text": "दिस इज वन."
+    },
+    {
+      "id": 70,
+      "start": 500.402,
+      "end": 501.842,
+      "speaker": "sunita",
+      "text": "10047."
+    },
+    {
+      "id": 71,
+      "start": 502.092,
+      "end": 503.23199999999997,
+      "speaker": "sunita",
+      "text": "मैम एक बात कहते हैं ना?"
+    },
+    {
+      "id": 72,
+      "start": 504.082,
+      "end": 506.562,
+      "speaker": "sunita",
+      "text": "मैम बोल रहा था कि अभी छोरी आ जाएगी तो मैं कर दूंगा."
+    },
+    {
+      "id": 73,
+      "start": 508.092,
+      "end": 508.98199999999997,
+      "speaker": "sunita",
+      "text": "तो हमने सिर्फ वही बोल रहा."
+    },
+    {
+      "id": 74,
+      "start": 511.422,
+      "end": 511.852,
+      "speaker": "sunita",
+      "text": "ये दोनों."
+    },
+    {
+      "id": 75,
+      "start": 513.242,
+      "end": 514.902,
+      "speaker": "sunita",
+      "text": "ये भी दोनों एक ही हैं."
+    },
+    {
+      "id": 76,
+      "start": 516.032,
+      "end": 516.782,
+      "speaker": "sunita",
+      "text": "ये पता नहीं."
+    },
+    {
+      "id": 77,
+      "start": 517.472,
+      "end": 528.882,
+      "speaker": "sunita",
+      "text": "सो मैम इसमें जो है ना 18 कैरट गोल्ड है 6.440 ग्राम का इसमें है येलो गोल्ड, एंड जो डायमंड्स है ईएफ कलर वीवीएस वीएस क्लैरिटी में है, टोटल 1 कैरट 75 सेंट है."
+    },
+    {
+      "id": 78,
+      "start": 529.272,
+      "end": 536.622,
+      "speaker": "sunita",
+      "text": "बिफोर डिस्काउंट मैम 112137 का आ रहा है, आफ्टर डिस्काउंट 107023 का."
+    },
+    {
+      "id": 79,
+      "start": 538.262,
+      "end": 538.822,
+      "speaker": "Customer_B",
+      "text": "ओके."
+    },
+    {
+      "id": 80,
+      "start": 539.382,
+      "end": 543.962,
+      "speaker": "Customer_B",
+      "text": "तो बेसिकली द गोल्ड वुड बी समथिंग लाइक."
+    },
+    {
+      "id": 81,
+      "start": 544.662,
+      "end": 545.652,
+      "speaker": "sunita",
+      "text": "49000."
+    },
+    {
+      "id": 82,
+      "start": 546.332,
+      "end": 546.662,
+      "speaker": "Customer_B",
+      "text": "या."
+    },
+    {
+      "id": 83,
+      "start": 547.452,
+      "end": 547.722,
+      "speaker": "Customer_B",
+      "text": "ओके."
+    },
+    {
+      "id": 84,
+      "start": 548.572,
+      "end": 548.972,
+      "speaker": "Customer_B",
+      "text": "ठीक है."
+    },
+    {
+      "id": 85,
+      "start": 549.522,
+      "end": 555.532,
+      "speaker": "sunita",
+      "text": "गोल्ड में सर वो रेट वाइज देखेंगे तो सर 7695 पर ग्राम है, दिस इज द गोल्ड प्राइस रहेगा."
+    },
+    {
+      "id": 86,
+      "start": 555.822,
+      "end": 557.892,
+      "speaker": "sunita",
+      "text": "49561 rupees."
+    },
+    {
+      "id": 87,
+      "start": 558.422,
+      "end": 561.052,
+      "speaker": "sunita",
+      "text": "Diamond would be 44685 rupees."
+    },
+    {
+      "id": 88,
+      "start": 561.722,
+      "end": 564.782,
+      "speaker": "Customer_B",
+      "text": "When you say diamonds how do you charge it as compared to gold?"
+    },
+    {
+      "id": 89,
+      "start": 565.562,
+      "end": 567.422,
+      "speaker": "sunita",
+      "text": "So sir we charge by per carat rate."
+    },
+    {
+      "id": 90,
+      "start": 567.772,
+      "end": 571.422,
+      "speaker": "sunita",
+      "text": "Right, so uh there are three types of diamonds according to their sizes."
+    },
+    {
+      "id": 91,
+      "start": 571.782,
+      "end": 574.902,
+      "speaker": "sunita",
+      "text": "Sir, according to number of according to their number it is."
+    },
+    {
+      "id": 92,
+      "start": 575.082,
+      "end": 584.202,
+      "speaker": "sunita",
+      "text": "So basically in this product we have three type of diamonds this per carat starts from 27000 per carat to 37000 per carat, 30000 per carat."
+    },
+    {
+      "id": 93,
+      "start": 584.752,
+      "end": 589.002,
+      "speaker": "sunita",
+      "text": "So if you see that in one category it is 20."
+    },
+    {
+      "id": 94,
+      "start": 589.502,
+      "end": 592.012,
+      "speaker": "sunita",
+      "text": "Let me tell you it's after discount before discount."
+    },
+    {
+      "id": 95,
+      "start": 592.612,
+      "end": 600.062,
+      "speaker": "sunita",
+      "text": "Before discount some diamonds would be 24000, some may be 15390 rupees and one is 10260."
+    },
+    {
+      "id": 96,
+      "start": 600.062,
+      "end": 603.952,
+      "speaker": "sunita",
+      "text": "Including this if we sum this so this will be the price for the [unrecognised audio]."
+    },
+    {
+      "id": 97,
+      "start": 604.992,
+      "end": 605.472,
+      "speaker": "sunita",
+      "text": "Exactly."
+    },
+    {
+      "id": 98,
+      "start": 605.472,
+      "end": 607.562,
+      "speaker": "sunita",
+      "text": "Basically we are charging as per carat."
+    },
+    {
+      "id": 99,
+      "start": 609.092,
+      "end": 614.612,
+      "speaker": "sunita",
+      "text": "If you see there is a per carat mentioned over there as well you will get the proper description as well."
+    },
+    {
+      "id": 100,
+      "start": 617.432,
+      "end": 617.842,
+      "speaker": "sunita",
+      "text": "Yes."
+    },
+    {
+      "id": 101,
+      "start": 618.312,
+      "end": 621.492,
+      "speaker": "sunita",
+      "text": "इसमें मैम यही वाले डिजाइन हैं जो टू टाइप वाला होगा."
+    },
+    {
+      "id": 102,
+      "start": 624.082,
+      "end": 626.542,
+      "speaker": "sunita",
+      "text": "बाकी मैं आई डोंट थिंक मेरे पास वैसा वाला होगा."
+    },
+    {
+      "id": 103,
+      "start": 628.532,
+      "end": 628.982,
+      "speaker": "sunita",
+      "text": "ये वाला."
+    },
+    {
+      "id": 104,
+      "start": 629.612,
+      "end": 633.722,
+      "speaker": "sunita",
+      "text": "Otherwise you can check out our website as well on the same name Jewelbox.co.in."
+    },
+    {
+      "id": 105,
+      "start": 634.202,
+      "end": 641.522,
+      "speaker": "sunita",
+      "text": "आप उसमें से कुछ अच्छा लगता है सो मैम यू कैन आर्डर टू अस, इट मे बी अवेलेबल और वी कैन अरेंज इट फॉर यू आफ्टर दैट यू कैन परचेज इट ऑर यू कैन डिनाई इट."
+    },
+    {
+      "id": 106,
+      "start": 641.872,
+      "end": 642.502,
+      "speaker": "sunita",
+      "text": "मैम नहीं है जी."
+    },
+    {
+      "id": 107,
+      "start": 644.202,
+      "end": 645.302,
+      "speaker": "sunita",
+      "text": "थैंक यू सो मच मैम."
+    },
+    {
+      "id": 108,
+      "start": 664.882,
+      "end": 665.902,
+      "speaker": "Customer_B",
+      "text": "नॉट फॉर इयररिंग."
+    },
+    {
+      "id": 109,
+      "start": 666.632,
+      "end": 667.962,
+      "speaker": "Customer_B",
+      "text": "That is for the top."
+    },
+    {
+      "id": 110,
+      "start": 758.742,
+      "end": 760.662,
+      "speaker": "Customer_B",
+      "text": "ओके पर इसमें नहीं है कुछ भी?"
+    },
+    {
+      "id": 111,
+      "start": 761.052,
+      "end": 761.342,
+      "speaker": "sunita",
+      "text": "हाँ जी."
+    },
+    {
+      "id": 112,
+      "start": 761.972,
+      "end": 763.762,
+      "speaker": "sunita",
+      "text": "मैम ये दोनों."
+    },
+    {
+      "id": 113,
+      "start": 772.202,
+      "end": 773.642,
+      "speaker": "Customer_B",
+      "text": "मेरी मम्मी तो [unrecognised audio]."
+    }
+  ]
+}
