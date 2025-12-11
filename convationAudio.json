@@ -1,0 +1,166 @@
+{
+  "conversation_id": "conv22_2005-2020",
+  "store_id": "conv22_2005-2020",
+  "staff_ids": [
+    "Customer_A",
+    "Customer_B",
+    "sunita"
+  ],
+  "audio_path": "data/audio/conv22_2005-2020.wav",
+  "segments": [
+    {
+      "id": 1,
+      "start": 227.332,
+      "end": 229.072,
+      "speaker": "sunita",
+      "text": "हाय मैम वेलकम टू ज्वेल बॉक्स."
+    },
+    {
+      "id": 2,
+      "start": 229.802,
+      "end": 230.538,
+      "speaker": "sunita",
+      "text": "हेलो सर"
+    },
+    {
+      "id": 3,
+      "start": 233.102,
+      "end": 234.072,
+      "speaker": "Customer_B",
+      "text": "ईयररिंग चाहिए"
+    },
+    {
+      "id": 4,
+      "start": 234.672,
+      "end": 238.332,
+      "speaker": "sunita",
+      "text": "मैम ये है कुछ उस साइड होंगे मैम बाकी मैं उस साइड होंगे मैं आपको दिखाती हूं."
+    },
+    {
+      "id": 5,
+      "start": 265.762,
+      "end": 267.402,
+      "speaker": "Customer_A",
+      "text": "जैसे आप पर ईयररिंग्स हैं, वैसे ही दिखा दो"
+    },
+    {
+      "id": 5,
+      "start": 267.762,
+      "end": 270.402,
+      "speaker": "sunita",
+      "text": "इयररिंग्स और मैम आपको बाजू में और दिखाऊंगी सर कुछ है ना?"
+    },
+    {
+      "id": 6,
+      "start": 271.952,
+      "end": 272.422,
+      "speaker": "sunita",
+      "text": "यस मैम."
+    },
+    {
+      "id": 7,
+      "start": 275.392,
+      "end": 280.942,
+      "speaker": "sunita",
+      "text": "और मैम क्लॉक किस टाइप के आप देख रहे हैं इयररिंग्स आप बता दें किस टाइप में आप देख रहे हैं? स्टड्स में या नहीं?"
+    },
+    {
+      "id": 8,
+      "start": 281.342,
+      "end": 282.502,
+      "speaker": "Customer_B",
+      "text": "स्टड्स में."
+    },
+    {
+      "id": 9,
+      "start": 282.842,
+      "end": 283.912,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम."
+    },
+    {
+      "id": 10,
+      "start": 285.022,
+      "end": 286.402,
+      "speaker": "sunita",
+      "text": "सॉलिटेयर स्टड्स चाहिए या कि डिजाइन?"
+    },
+    {
+      "id": 11,
+      "start":"286.890",
+      "end":"287.248",
+      "speaker":"Customer_B",
+      "text":"डिजाइन"
+    },
+    {
+      "id": 12,
+      "start": 287.342,
+      "end": 288.332,
+      "speaker": "sunita",
+      "text": "ओके मैम."
+    },
+    {
+      "id": 13,
+      "start": 353.012,
+      "end": 354.254,
+      "speaker": "sunita",
+      "text": "यह देखिए मैम"
+    },
+    {
+      "id": 14,
+      "start": 357.022,
+      "end": 359.254,
+      "speaker": "Customer_B",
+      "text": "बाली टाइप में है"
+    },
+    {
+      "id": 16,
+      "start": 357.022,
+      "end": 359.254,
+      "speaker": "sunita",
+      "text": "यस मैम"
+    },
+    {
+      "id": 17,
+      "start": 359.622,
+      "end": 361.154,
+      "speaker": "sunita",
+      "text": "बाली टाइप ओके"
+    },
+    {
+      "id": 18,
+      "start": 361.783,
+      "end": 363.254,
+      "speaker": "Customer_B",
+      "text": "वो लॉक वाली आती है ना?"
+    },
+    {
+      "id": 19,
+      "start": 363.981,
+      "end": 366.018,
+      "speaker": "Customer_B",
+      "text": "और जैसे बाली में पैटर्न क्लिक हो जाता है" // Recheck karna hai isko galt likha hai maine
+    },
+    {
+      "id": 20,
+      "start": 366.183,
+      "end": 367.454,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम है"
+    },
+    {
+      "id": 21,
+      "start": 366.183,
+      "end": 367.454,
+      "speaker": "sunita",
+      "text": "हाँ जी मैम है "
+    },
+
+
+
+
+    
+
+    
+  ]
+}
